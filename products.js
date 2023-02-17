@@ -9,9 +9,9 @@ class Producto {
 }
 
 const product1 = new Producto(1, "PC", "Pc Gamer", 120000, "./img/pc.jpg")
-const product2 = new Producto(1, "Note", "Notebook Gamer", 180000, "./img/note.jpg")
-const product3 = new Producto(1, "Tablet", "Tablet 7´", 50000, "./img/tablet.jpg")
-const product4 = new Producto(1, "All in One", "All in One Gamer", 250000, "./img/all_in_one.jpg")
+const product2 = new Producto(2, "Note", "Notebook Gamer", 180000, "./img/note.jpg")
+const product3 = new Producto(3, "Tablet", "Tablet 7´", 50000, "./img/tablet.jpg")
+const product4 = new Producto(4, "All in One", "All in One Gamer", 250000, "./img/all_in_one.jpg")
 
 const productos = [product1, product2, product3, product4]
 /*
